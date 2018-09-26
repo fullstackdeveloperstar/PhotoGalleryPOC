@@ -12,3 +12,7 @@
     margin: 5px;
     max-width: 130px
 }
+
+#div-gallery-container .photo-item p{
+	margin:  3px;
+}
